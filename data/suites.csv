@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","70590","Создание участника авторизованным пользователем","chromium","2026-04-15","passed","2026-04-15","","cutieville.spec.ts","",""
-"","10872","Добавление фото и добавление локации","chromium","2026-04-15","passed","2026-04-15","","cutieville.spec.ts","",""
-"","39597","Регистрация нового пользователя","chromium","2026-04-15","passed","2026-04-15","","cutieville.spec.ts","",""
+"","39919","Регистрация нового пользователя","chromium","2026-04-15","passed","2026-04-15","","cutieville.spec.ts","",""
+"","10560","Добавление фото и добавление локации","chromium","2026-04-15","passed","2026-04-15","","cutieville.spec.ts","",""
+"","320030","Создание участника авторизованным пользователем","chromium","2026-04-15","passed","2026-04-15","","cutieville.spec.ts","",""
