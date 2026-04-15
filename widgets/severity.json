@@ -1,1 +1,1 @@
-[]
+[{"uid":"8d19cd889461b9f9","name":"Создание участника авторизованным пользователем","time":{"start":1776267606956,"stop":1776267677546,"duration":70590},"status":"passed","severity":"normal"},{"uid":"3c183de1900664b6","name":"Добавление фото и добавление локации","time":{"start":1776267596068,"stop":1776267606940,"duration":10872},"status":"passed","severity":"normal"},{"uid":"7a69a8a80f0ab504","name":"Регистрация нового пользователя","time":{"start":1776267555170,"stop":1776267594767,"duration":39597},"status":"passed","severity":"normal"}]
